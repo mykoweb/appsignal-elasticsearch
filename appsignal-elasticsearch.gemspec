@@ -1,4 +1,5 @@
 # -*- encoding: utf-8 -*-
+require 'appsignal'
 require File.expand_path('../lib/appsignal/elasticsearch/version', __FILE__)
 
 Gem::Specification.new do |gem|
